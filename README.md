@@ -21,7 +21,7 @@ Repository consisting of certificates of all completed courses and training.
 
 - **International English Language Test System – Mentors**  
   Issued by British Council and Cambridge English 
-  📄 [View Certificate](Duet_Team_Phoenix_Rank.jpeg)
+  📄 [View Certificate](IELTS_ZISAN.pdf)
   
 - **Door Supervision – Security Industry Authority**  
   Issued by Best Training London 
