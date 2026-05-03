@@ -3,6 +3,6 @@ Repository consisting of certificates of all completed courses and training.
 
 # 🎓 Professional Certifications
 
-- **Machine Learning – Stanford University**  
+- **Machine Learning – Lead Academy**  
   Issued by Lead Academy 
   📄 [View Certificate](Certificate-Machine-Learning.pdf)
