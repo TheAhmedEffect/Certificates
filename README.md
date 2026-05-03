@@ -15,6 +15,10 @@ Repository consisting of certificates of all completed courses and training.
   Issued by Islamic University of Technology 
   📄 [View Certificate](Esonance_LFR.png)
 
+- **DUET Techfest 2023 – Line Follower Robot Segment**  
+  Issued by Dhaka University of Engineering & Technology 
+  📄 [View Certificate](Duet_Team_Phoenix_Rank.jpeg)
+
 - **Door Supervision – Security Industry Authority**  
   Issued by Best Training London 
   📄 [View Certificate](SIA_License_Zisan.pdf)
